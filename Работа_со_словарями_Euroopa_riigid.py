@@ -110,4 +110,3 @@ elif Countries in Capital:
     print('Страна столицы ' + Countries + ': ' + Capital[Countries])
 else:
     print('В базе нет страны c названием ' + Countries)
-
